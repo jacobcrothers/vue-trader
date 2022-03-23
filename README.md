@@ -1,5 +1,5 @@
 <h1 align="center">
-  Trader :heavy_dollar_sign:
+  Trader
 </h1>
 
 <h4 align="center">
