@@ -1,15 +1,10 @@
 <h1 align="center">
-  :heavy_dollar_sign: StockTrader :heavy_dollar_sign:
+  Trader :heavy_dollar_sign:
 </h1>
 
 <h4 align="center">
-  A web application where users can buy stocks and sell them to have profit
+  Users can buy stocks and sell them to have profit
 </h4>
-
-<p align="center">
-  <img alt="Repo's top language" src="https://img.shields.io/static/v1?label=Main%20technologies&message=Vue.js%20and%20Node.js&style=for-the-badge&color=24B36B&labelColor=000000">
-  <img alt="Repository size" src="https://img.shields.io/static/v1?label=Repo%20size&message=0.7%20MB&style=for-the-badge&color=24B36B&labelColor=000000">
-</p>
 
 <p align="center">
   <a href="#technologies">Used Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -96,4 +91,3 @@ this way you'll stop the app
 Hope you enjoyed this project :smiley:<br>
 :wave: [Get in touch!](https://www.linkedin.com/in/tiagodiass)
 
-### Author: [Tiago Dias](https://tiagodiass.github.io)
